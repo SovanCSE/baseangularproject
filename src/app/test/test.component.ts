@@ -12,10 +12,6 @@ export class TestComponent implements OnInit {
    public fk:string;
    
   constructor() {
-
-lllll llll
-
-
   } 
 
   ngOnInit() {
