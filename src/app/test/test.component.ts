@@ -10,7 +10,9 @@ import { Component, OnInit } from '@angular/core';
 export class TestComponent implements OnInit {
    public name:string = 'Kushal';
    
-  constructor() {} 
+  constructor() {
+    
+  } 
 
   ngOnInit() {
   }
